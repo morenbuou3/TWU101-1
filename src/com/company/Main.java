@@ -20,5 +20,9 @@ public class Main {
         FizzBuzz fizzBuzz = new FizzBuzz();
 
         fizzBuzz.print();
+
+        Prime prime = new Prime();
+
+        prime.generate(30);
     }
 }
