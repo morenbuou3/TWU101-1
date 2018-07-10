@@ -17,5 +17,7 @@ public class Main {
         Diamond diamond = new Diamond();
 
         diamond.isosceles(3);
+
+        diamond.diamond(3);
     }
 }
