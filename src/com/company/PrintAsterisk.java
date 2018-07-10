@@ -18,4 +18,9 @@ public class PrintAsterisk {
         }
     }
 
+    public void printTriangle(int n) {
+        for (int i = 1; i <= n; i++) {
+            printLine(i);
+        }
+    }
 }
