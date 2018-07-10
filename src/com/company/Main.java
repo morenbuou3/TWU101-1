@@ -13,5 +13,9 @@ public class Main {
         printAsterisk.printVerticalLine(3);
 
         printAsterisk.printTriangle(3);
+
+        Diamond diamond = new Diamond();
+
+        diamond.isosceles(3);
     }
 }
