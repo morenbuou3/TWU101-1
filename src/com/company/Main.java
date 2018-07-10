@@ -19,5 +19,7 @@ public class Main {
         diamond.isosceles(3);
 
         diamond.diamond(3);
+
+        diamond.diamondWithName(3);
     }
 }
