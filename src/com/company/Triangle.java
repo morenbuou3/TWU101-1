@@ -1,6 +1,6 @@
 package com.company;
 
-public class PrintAsterisk {
+public class Triangle {
     public void print() {
         System.out.println("*");
     }

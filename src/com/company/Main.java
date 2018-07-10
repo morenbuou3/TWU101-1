@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        PrintAsterisk printAsterisk = new PrintAsterisk();
+        Triangle printAsterisk = new Triangle();
 
         printAsterisk.print();
 
