@@ -9,5 +9,7 @@ public class Main {
         printAsterisk.print();
 
         printAsterisk.printLine(8);
+
+        printAsterisk.printVerticalLine(3);
     }
 }
